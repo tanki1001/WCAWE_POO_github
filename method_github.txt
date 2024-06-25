@@ -1,9 +1,1 @@
 This file is just here to track the method to use github
-
-At the end of the session, run the following commands to update everything on github
-git add .
-git commit -m "update " #Add the day date
-git push origin master
-
-Current token :
-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 | valid until 24th July
